@@ -14,6 +14,7 @@ public class finalActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_final);
+        // laad de tekst van het verhaaltje
         Intent goToStory = getIntent();
         tekst = goToStory.getStringExtra("tekst");
         TextView TVStory = (TextView) findViewById(R.id.TVSTory);

@@ -75,8 +75,7 @@ public class FillInActivity extends AppCompatActivity {
         }
         // anders: laad insertword voor volgend woord, vul huidig woord in
         else {
-            EditText EditText = (EditText) findViewById(R.id.ETWord);
-            verhaaltje.fillInPlaceholder(EditText.getText().toString());
+            verhaaltje.fillInPlaceholder(ETword.getText().toString());
             insertWord();
         }
     }
