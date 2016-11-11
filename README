@@ -1,0 +1,9 @@
+Bijgevoegd mijn app, screenshot, en beschrijving. Ik hoop dat het goed is zo ;)
+Wat nog gebeurt (en ik niet weg kreeg) is dat mijn if...else is... else in fillinactivity raar doet:
+als het verhaaltje gevuld is (if) zou de app niet alsnog de else moeten doen (nog een keer prompten voor een woord), maar dat doet ie wel.
+Verder heb ik gekeken naar random selecteren van een verhaaltje, dat zou ik gedaan hebben door een random getal te genereren uit de range van het aantal bestanden in de assets, en vervolgens dat bestand te selecteren.
+Daar ben ik helaas niet meer aan toe gekomen.
+
+File geschreven door
+Marlieske Doorn
+10834958
